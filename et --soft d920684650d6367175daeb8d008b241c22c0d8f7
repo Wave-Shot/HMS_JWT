@@ -1,0 +1,17 @@
+[33mcommit 026695957b1de1049531b353a52f89280e1d38ff[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m
+Author: Naveen <112943571+naveen2624@users.noreply.github.com>
+Date:   Tue Apr 7 14:20:24 2026 +0530
+
+    Update database password in application properties
+
+[33mcommit d920684650d6367175daeb8d008b241c22c0d8f7[m
+Author: Naveen <naveenudai26@gmail.com>
+Date:   Tue Apr 7 11:48:06 2026 +0530
+
+    [Naveen]:Add: Added the Hospital Management System with JWT authentication
+
+[33mcommit 7c0d50e3b8881f60ec0c87b5cc2422bc69b4a009[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Naveen <naveenudai26@gmail.com>
+Date:   Tue Apr 7 11:46:39 2026 +0530
+
+    first commit
